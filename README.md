@@ -1,4 +1,3 @@
-# meshlab_extract_texture
 # Steps to create Textured Mesh from Point Cloud using Meshlab
 ## Get your PointCloud into MeshLab
 * Import the pointcloud file in ".ply" file format in [Meshlab](http://www.meshlab.net/). Before importing make sure you do some pre-processing / cleaning on point cloud so as to ease the process of meshing.
